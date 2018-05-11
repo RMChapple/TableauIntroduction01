@@ -19,7 +19,7 @@ Creating, formating, & pubishing a Dashboard
 
 
 ### Available Resources Include:
-Complete Tableau Dashboard (Tableau 10.5): Tableau Introductory Session Dashboard.twb ** In Progress
+Complete Tableau Packaged Workbook (Tableau 10.5): Tableau Introductory Session Dashboard.twbx
 
 A version of Tableau's 2017 Superstore Data: EditedSuperstoreData.xls
 
