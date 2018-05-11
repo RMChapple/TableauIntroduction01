@@ -27,4 +27,4 @@ A list of Reginal Managers: RegionalManagers.cssv
 
 Powerpoint Slide Pack: A Brief introduction to Tableau.pptx ** In Progress
 
-Teaching notes: Teaching Notes.docx ** In Progress
+Teaching notes: Teaching Notes.docx
