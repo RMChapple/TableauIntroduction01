@@ -23,7 +23,7 @@ Complete Tableau Packaged Workbook (Tableau 10.5): Tableau Introductory Session 
 
 A version of Tableau's 2017 Superstore Data: EditedSuperstoreData.xls
 
-A list of Reginal Managers: RegionalManagers.cssv
+A list of Reginal Managers: RegionalManagers.csv
 
 Powerpoint Slide Pack: A Brief introduction to Tableau.pptx
 
