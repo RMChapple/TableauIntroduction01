@@ -25,6 +25,6 @@ A version of Tableau's 2017 Superstore Data: EditedSuperstoreData.xls
 
 A list of Reginal Managers: RegionalManagers.cssv
 
-Powerpoint Slide Pack: A Brief introduction to Tableau.pptx ** In Progress
+Powerpoint Slide Pack: A Brief introduction to Tableau.pptx
 
 Teaching notes: Teaching Notes.docx
